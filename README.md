@@ -12,5 +12,6 @@ Overview of different repositories on [Trading Strategy](https://tradingstrategy
 - proxy-server is [Caddy](https://caddyserver.com/) reverse proxy for [tradingstrategy.ai](https://tradingstrategy.ai) domain
 - logging is [ELK (Elastic + Logstash + Kibana)](https://aws.amazon.com/opensearch-service/the-elk-stack/) hosted service to manage logs 
 - monitoring is a collection of Datadog alert scripts
+- ethereum-blockchain-docker-compose  contains Docker compose files for multiple blockchain JSON-RPC nodes (Ethereum, Polygon, Binance Smart Chain)
 - (private) oracle is the Python based oracle core that interacts with blockchains and TimescaleDB
 - (private) backend is a [Pyramid web framework](https://trypyramid.com/) based API server that runs [tradingstrategy.ai](https://tradingstrategy.ai) website
