@@ -2,7 +2,7 @@
 
 Overview of different repositories on [Trading Strategy](https://tradingstrategy.ai) Github organisation
 
-- client is [tradingstrategy Python package](https://pypi.org/project/tradingstrategy/) for creating trading algorithms
+- client is [tradingstrategy Python package](https://pypi.org/project/trading-strategy/) for creating trading algorithms
 - trade-executor is a Python based command daemon for executing strategies on decentralised exchanges and active portfolio management tool
 - eth-hentai is a [Python library to easily interact with decentralised exchanges](https://pypi.org/project/eth-hentai/)
 - frontend is [Trading Strategy website](https://tradingstrategy.ai) written in [SvelteKit framework](http://kit.svelte.dev/) 
